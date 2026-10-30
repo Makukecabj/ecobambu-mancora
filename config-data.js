@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Ecobambú Máncora",
+    "short_name": "Ecobambú Máncora",
+    "tagline": "Ecobambú Máncora · Perú",
+    "description": "Ecobambú Máncora: pileta, parrilla, WiFi y la mejor ubicación en Perú.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · C. Sanchez Abanto 20851",
+    "title_line1": "Viví",
+    "title_em": "Ecobambú Máncora",
+    "title_line2": "como nunca",
+    "subtitle": "Hospedaje cómodo en Perú para viajeros como vos."
+  },
+  "location": {
+    "address": "C. Sanchez Abanto 20851, Máncora 20851, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "C. Sanchez Abanto 20851, Máncora 20851, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=C.+Sanchez+Abanto+20851%2C+M%C3%A1ncora+20851%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. El mejor lugar para quedarte en la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951936672241",
+    "phone": "+54951936672241",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Ecobamb%C3%BA+M%C3%A1ncora/data=!4m10!3m9!1s0x903691a668fad8f3:0x4e96c345ce4062db!5m2!4m1!1i2!8m2!3d-4.1018352!4d-81.0491306!16s%2Fg%2F11m65g8wrx!19sChIJ89j6aKaRNpAR22JAzkXDlk4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Ecobamb%C3%BA+M%C3%A1ncora/data=!4m10!3m9!1s0x903691a668fad8f3:0x4e96c345ce4062db!5m2!4m1!1i2!8m2!3d-4.1018352!4d-81.0491306!16s%2Fg%2F11m65g8wrx!19sChIJ89j6aKaRNpAR22JAzkXDlk4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Todo sobre nosotros",
+    "title": "La historia de Ecobambú Máncora.",
+    "paragraphs": [
+      "Te damos la bienvenida a Ecobambú Máncora, en el corazón de Perú. Nuestro hostel tiene pileta, parrilla, cocina completa y espacios para relajarte. Somos un hostel chico con mucha onda, donde cada viajero es bienvenido."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Siempre hay alguien para ayudarte",
+    "Sin sorpresas al momento de pagar",
+    "Te contamos todo lo que necesitás saber"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Para dormir bien",
+      "description": "Colchones que hacen que no quieras levantarte.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi libre",
+      "description": "Sin límite, sin contraseña rara, conectate y listo.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Zona céntrica",
+      "description": "Restaurantes, bares y todo a pocas cuadras.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Tienen aire acondicionado?",
+      "answer": "Sí, en verano estás fresquito sin problema."
+    },
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Hay pileta?",
+      "answer": "Sí, hay pileta. En verano es el mejor lugar para refrescarte."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Ecobambú Máncora",
+    "copyright": "© 2026 Ecobambú Máncora. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Ecobambú Máncora",
+        "short_name": "Ecobambú Máncora",
+        "tagline": "Ecobambú Máncora · Accommodation",
+        "description": "Ecobambú Máncora offers everything you need for your stay in Perú.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · C. Sanchez Abanto 20851",
+        "title_line1": "Enjoy",
+        "title_em": "Ecobambú Máncora",
+        "title_line2": "in Perú",
+        "subtitle": "Pool, BBQ and the best hangout spot in Perú."
+      },
+      "about": {
+        "eyebrow": "A bit about us",
+        "title": "A bit about Ecobambú Máncora.",
+        "paragraphs": [
+          "Welcome to Ecobambú Máncora, right in the heart of Perú. Our hostel has a pool, BBQ, full kitchen and spaces to relax. We're a small hostel with great vibes, where every traveler is welcome."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "Is there air conditioning?",
+          "answer": "Yes, you'll stay cool in summer no problem."
+        },
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Updated availability in real time",
+        "No Booking.com commissions",
+        "We help you plan your trip"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Lucas P.",
+          "rating": 4,
+          "text": "Great value and personalized attention you don't find anywhere else."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        }
+      ],
+      "footer": {
+        "description": "Ecobambú Máncora",
+        "copyright": "© 2026 Ecobambú Máncora. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Ecobambú Máncora",
+        "description": "Tu base en Ecobambú Máncora para explorar Perú.",
+        "url": "",
+        "telephone": "+54951936672241",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Ecobamb%C3%BA+M%C3%A1ncora/data=!4m10!3m9!1s0x903691a668fad8f3:0x4e96c345ce4062db!5m2!4m1!1i2!8m2!3d-4.1018352!4d-81.0491306!16s%2Fg%2F11m65g8wrx!19sChIJ89j6aKaRNpAR22JAzkXDlk4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "C. Sanchez Abanto 20851, Máncora 20851, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Para dormir bien",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi libre",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Zona céntrica",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Tienen aire acondicionado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en verano estás fresquito sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay pileta?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, hay pileta. En verano es el mejor lugar para refrescarte."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
